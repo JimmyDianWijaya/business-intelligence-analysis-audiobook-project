@@ -8,3 +8,5 @@ The objective of this project is to gather 3 main insights about the performance
 There were two datasets used to answer these business questions: Audiobook Reviews and Audiobook Sales from Feb 2017 - Feb 2018. 
 Data cleansing and Exploratory Data Analysis (EDA) were completed using Excel. 
 Then, Tableau is employed to perform data blending and create a data dashboard to visualise the address the key insights of this project.  
+
+Audiobooks dashboard in Tableau: https://public.tableau.com/profile/jimmy.wijaya#!/
